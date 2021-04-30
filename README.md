@@ -1,4 +1,4 @@
-# Machine-Learning-Exercises
+# Machine-Learning-Exercises-Python
 Jupyter notebooks covering a wide range of functions and operations on the topics of NumPy, Pandans, Seaborn, Matplotlib etc.
 
 
